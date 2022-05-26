@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Asap', sans-serif;
+    font-family: 'VT323', monospace;
+    text-align: center;
+}
+h1{
+    color: #e53170;
+    font-size: 60px bolder;
+    margin: 50px;
+}
+
