@@ -6,9 +6,44 @@
     font-family: 'VT323', monospace;
     text-align: center;
 }
+body{
+    width: 70%;
+    margin: auto;
+    background-color: #fff;
+}
 h1{
     color: #e53170;
-    font-size: 60px bolder;
-    margin: 50px;
+    font-size: 60px;
 }
 
+.container{
+    background-color: #000;
+    display: inline-block;
+    margin: 10px;
+}
+
+img{
+    float: left;
+    size: 10%;
+}
+
+.clearfix {
+    overflow: auto;
+  }
+
+.name{
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.role{
+    color: #fff;
+}
+.email{
+    color: rgb(98,190,214);
+}
+
+.text{
+    margin: 10px;
+    text-align: left;
+}
