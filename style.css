@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Asap', sans-serif;
-    font-family: 'VT323', monospace;
     text-align: center;
 }
 body{
@@ -25,7 +24,7 @@ h1{
 
 img{
     float: left;
-    size: 10%;
+    height: 200px;
 }
 
 .clearfix {
